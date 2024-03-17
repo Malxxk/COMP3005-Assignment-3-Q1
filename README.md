@@ -1,5 +1,7 @@
 # COMP3005-Assignment-3-Q1
 
+Youtube Link: https://youtu.be/CaaKQVpv5Rg
+
 Purpose of the Application:
 This is an application that connects to a database and performs CRUD (Create, Read, Update, Delete) operations on the data.
 
